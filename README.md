@@ -6,8 +6,7 @@ A simple **User Management System** built with **ASP.NET Core MVC 9** and **Enti
 
 - **User Registration**: Users can create an account with username, email, and password.  
 - **User Login**: Authenticate users using email and password.  
-- **Role Management**: Assign roles such as Admin or User to control access.  
-- **CRUD Operations**: Create, read, update, and delete users.  
+- **Role Management**: Assign roles such as Admin or User to control access.   
 - **Entity Framework Core**: Handles database operations.  
 - **Razor Views**: Simple and clean user interface using Razor pages.  
 
