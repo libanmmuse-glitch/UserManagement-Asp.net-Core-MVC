@@ -22,8 +22,12 @@ A simple **User Management System** built with **ASP.NET Core MVC 9** and **Enti
 
 - [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)  
 - Visual Studio 2022 or later  
-- SQL Server / SQLite  
-<img width="1848" height="901" alt="image" src="https://github.com/user-attachments/assets/08c59e46-0ce3-4818-92d3-d3bdc917f8eb" />
+- SQL Server
+
+- <img width="1912" height="921" alt="image" src="https://github.com/user-attachments/assets/b11d7de3-b962-4d67-a733-37a3c1bf82ee" />
+
+<img width="932" height="698" alt="image" src="https://github.com/user-attachments/assets/36dffde1-71f1-41f9-bc92-76167422f561" />
+
 <img width="1072" height="195" alt="image" src="https://github.com/user-attachments/assets/2e025462-4a4c-4516-bd05-85172ecd74fa" />
 <img width="762" height="883" alt="image" src="https://github.com/user-attachments/assets/696d1a18-b262-44cd-93c3-260d3258c0ab" />
 
