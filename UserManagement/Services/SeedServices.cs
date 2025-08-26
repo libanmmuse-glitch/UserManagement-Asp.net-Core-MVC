@@ -28,7 +28,7 @@ namespace UserManagement.Services
 
                 // Add admin user
                 logger.LogInformation("Seeding admin user.");
-                var adminEmail = "admin@codehub.com";
+                var adminEmail = "liban@gmail.com";
                 if (await userManager.FindByEmailAsync(adminEmail) == null)
                 {
                     var adminUser = new Users
