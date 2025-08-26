@@ -28,7 +28,3 @@ A simple **User Management System** built with **ASP.NET Core MVC 9** and **Enti
 <img width="1072" height="195" alt="image" src="https://github.com/user-attachments/assets/2e025462-4a4c-4516-bd05-85172ecd74fa" />
 <img width="762" height="883" alt="image" src="https://github.com/user-attachments/assets/696d1a18-b262-44cd-93c3-260d3258c0ab" />
 
-
-
-git clone https://github.com/yourusername/UserManagement.git
-cd UserManagement
